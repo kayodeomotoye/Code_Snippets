@@ -1,0 +1,15 @@
+Interface                      Status         Protocol Description
+Gi0/0/0                        up             up       ### ARDOVA APAPA CAMBIUM PTP INTERNET ACCESS ###
+Gi0/0/1                        up             up       ###  cambium-ng-asw1-ebutte-asw1-ojuelegba-wrl-mi ###
+Gi0/0/2                        up             up       ### 10.5GHz - EBUTTE BASE STATION- SECTOR1 ###
+Gi0/0/3                        up             up       ### 10.5GHz - EBUTTE BASE STATION- SECTOR2 ###
+Gi0/0/4                        up             up       ### VERITAS - RADWIN ###
+Gi0/0/5                        up             up       ### DC MONITORING ###
+Gi0/0/6                        up             up       ### GTB ST GREGORY CAMBIUM ###
+Gi0/0/7                        up             up       ### GTB ST GREGORY CAMBIUM MGT###
+Gi0/0/8                        up             up       ###  Dragonwave-ng-asw1-ebutte-asw1-medallion-wrl-mi ###
+Gi0/0/9                        up             up       ### CAMBIUM-MGMT-OJUELEGBA ###
+Gi0/0/10                       up             up       ### RADWIN SECTOR 2 ###
+Gi0/0/11                       up             up       ### MERISTEM SECURITY YABA INTERNET ACCESS ###
+Gi0/0/12                       admin down     down     EBUTE-PE1
+Gi0/0/13                       admin down     down     
